@@ -1,0 +1,11 @@
+sample_id,date,bacterial_specie,sample,age,gender,antibiotic_tested,sensitivity_result,resistant_result
+S001,2024-09-03,E. coli,urine,34,female,"Meropenem,Ceftazidime,Ciprofloxacin,Co-trimoxazole","Meropenem,Ciprofloxacin","Ceftazidime,Co-trimoxazole"
+S002,2024-09-05,Klebsiella spp,urine,45,female,"Meropenem,Ceftazidime,Levofloxacin,Clindamycin","Levofloxacin","Meropenem,Ceftazidime,Clindamycin"
+S003,2024-09-08,Staphylococcus spp,hvs,28,female,"Clindamycin,Co-trimoxazole,Levofloxacin","Co-trimoxazole","Clindamycin,Levofloxacin"
+S004,2024-09-10,Enterococcus spp,urine,60,male,"Meropenem,Ciprofloxacin,Ceftazidime","Ciprofloxacin","Meropenem,Ceftazidime"
+S005,2024-09-12,E. coli,hvs,22,female,"Ceftazidime,Levofloxacin,Co-trimoxazole,Meropenem","Meropenem,Levofloxacin","Ceftazidime,Co-trimoxazole"
+S006,2024-09-15,Streptococcus spp,hvs,31,female,"Clindamycin,Ciprofloxacin,Co-trimoxazole","Co-trimoxazole","Clindamycin,Ciprofloxacin"
+S007,2024-09-18,Klebsiella spp,blood,55,male,"Meropenem,Ceftazidime,Ciprofloxacin","Ciprofloxacin","Meropenem,Ceftazidime"
+S008,2024-09-20,Coliform bacteria,urine,40,female,"Co-trimoxazole,Levofloxacin,Ceftazidime","Levofloxacin","Co-trimoxazole,Ceftazidime"
+S009,2024-09-22,Enterobacter cloacae,sputum,67,male,"Meropenem,Ciprofloxacin,Ceftazidime,Clindamycin","Meropenem","Ciprofloxacin,Ceftazidime,Clindamycin"
+S010,2024-09-25,Gonorrhea spp,hvs,26,female,"Ciprofloxacin,Ceftazidime,Co-trimoxazole","Ceftazidime","Ciprofloxacin,Co-trimoxazole"
